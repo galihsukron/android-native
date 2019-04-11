@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732299646188",
+    "firebase_url": "https://jogjapariwisata-cd791.firebaseio.com",
+    "project_id": "jogjapariwisata-cd791",
+    "storage_bucket": "jogjapariwisata-cd791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732299646188:android:0d9ce0545c63b2ce",
+        "android_client_info": {
+          "package_name": "com.example.jogjapariwisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732299646188-eent5fov8qlokn77pr415fd2rs1tj9de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jogjapariwisata",
+            "certificate_hash": "8fa7d7683afe0d001d7e07baecf8a474abc61297"
+          }
+        },
+        {
+          "client_id": "732299646188-h2t9kjpad8uelqemu5qusuuc7qq3i6ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUBYoMGq76Fs9nEaapopY9Cfsl13I2fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732299646188-h2t9kjpad8uelqemu5qusuuc7qq3i6ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
